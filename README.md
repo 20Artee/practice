@@ -7,10 +7,13 @@ This project analyzes three CSV datasets: population, climate change indicators,
 ### Datasets
 
 1. **Population Dataset**: Provides demographic information including population counts, growth rates, and demographic breakdowns by region or country.
+![image](https://github.com/20Artee/practice/assets/90819654/d513a6fb-db1e-4aba-846c-616b611fb677)
 
 2. **Climate Change Indicators Dataset**: Contains metrics related to climate change such as temperature changes, greenhouse gas emissions, and sea levels, offering insights into environmental challenges faced by different regions worldwide.
+![image](https://github.com/20Artee/practice/assets/90819654/0905e76a-de40-4e1a-83db-7d9fb4ecfa3e)
 
 3. **World GDP Dataset**: Offers economic data on the gross domestic product (GDP) of countries or regions over time, including economic growth, recessions, and overall economic performance.
+![image](https://github.com/20Artee/practice/assets/90819654/4ea61508-2a86-4f75-a9b2-0300f08e0ecb)
 
 ## Goals
 
