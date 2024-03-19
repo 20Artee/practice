@@ -1,6 +1,5 @@
 import sys
-sys.path.append('C:/Users/Rauan/practice/script/Analyzer.py')
-from sys import Analyzer
+sys.path.append('C:\Users\Rauan\practice\script\my_analyzer\my_analyzer')
 
 import pandas as pd
 import seaborn as sns
