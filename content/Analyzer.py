@@ -2,6 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 class capsule:
     def __init__(self, filename):
         self.data = pd.read_csv(filename, encoding='latin1')
@@ -34,4 +35,3 @@ class capsule:
 
     def show_corellation_matrix(self):
         return self.data.corr()
-        
