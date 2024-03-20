@@ -1,14 +1,12 @@
-import sys
-sys.path.append('C:\Users\Rauan\practice\script\my_analyzer\my_analyzer')
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
 class Analyzer:
     def __init__(self, filename):
-        self.data = pd.read.csv(filename)
-
+        self.data = pd.read_csv(filename, encoding='latin1')
+        self.data = self.data.apply(pd.to_numeric, errors='coerce')
+        
     def info(self):
         return self.data.info()
 
