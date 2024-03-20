@@ -1,0 +1,171 @@
+country_name,Capital,Continent,Area (km²),country_id
+Afghanistan,Kabul,Asia,652230,1
+Albania,Tirana,Europe,28748,2
+Algeria,Algiers,Africa,2381741,3
+Andorra,Andorra la Vella,Europe,468,5
+Angola,Luanda,Africa,1246700,6
+Antigua and Barbuda,Saint John’s,North America,442,8
+Argentina,Buenos Aires,South America,2780400,9
+Armenia,Yerevan,Asia,29743,10
+Aruba,Oranjestad,North America,180,11
+Australia,Canberra,Oceania,7692024,12
+Austria,Vienna,Europe,83871,13
+Azerbaijan,Baku,Asia,86600,14
+Bahrain,Manama,Asia,765,16
+Bangladesh,Dhaka,Asia,147570,17
+Barbados,Bridgetown,North America,430,18
+Belarus,Minsk,Europe,207600,19
+Belgium,Brussels,Europe,30528,20
+Belize,Belmopan,North America,22966,21
+Benin,Porto-Novo,Africa,112622,22
+Bhutan,Thimphu,Asia,38394,24
+Bolivia,Sucre,South America,1098581,25
+Bosnia and Herzegovina,Sarajevo,Europe,51209,26
+Botswana,Gaborone,Africa,582000,27
+Brazil,Brasilia,South America,8515767,28
+Bulgaria,Sofia,Europe,110879,31
+Burkina Faso,Ouagadougou,Africa,272967,32
+Burundi,Bujumbura,Africa,27834,33
+Cambodia,Phnom Penh,Asia,181035,34
+Cameroon,Yaounde,Africa,475442,35
+Canada,Ottawa,North America,9984670,36
+Central African Republic,Bangui,Africa,622984,39
+Chad,N'Djamena,Africa,1284000,40
+Chile,Santiago,South America,756102,41
+Colombia,Bogota,South America,1141748,43
+Comoros,Moroni,Africa,1862,44
+Costa Rica,San José,North America,51100,46
+Croatia,Zagreb,Europe,56594,47
+Cyprus,Nicosia,Europe,9251,49
+Denmark,Copenhagen,Europe,43094,50
+Djibouti,Djibouti,Africa,23200,51
+Dominica,Roseau,North America,751,52
+Dominican Republic,Santo Domingo,North America,48671,53
+Ecuador,Quito,South America,276841,54
+Egypt,Cairo,Africa,1002450,55
+El Salvador,San Salvador,North America,21041,56
+Equatorial Guinea,Malabo,Africa,28051,57
+Eritrea,Asmara,Africa,117600,58
+Estonia,Tallinn,Europe,45227,59
+Eswatini,Mbabane,Africa,17364,60
+Ethiopia,Addis Ababa,Africa,1104300,61
+Fiji,Suva,Oceania,18272,64
+Finland,Helsinki,Europe,338424,65
+France,Paris,Europe,551695,66
+Gabon,Libreville,Africa,267668,69
+Georgia,Tbilisi,Asia,69700,71
+Germany,Berlin,Europe,357114,72
+Ghana,Accra,Africa,238533,73
+Greece,Athens,Europe,131990,75
+Grenada,Saint George's,North America,344,77
+Guatemala,Guatemala City,North America,108889,80
+Guinea,Conakry,Africa,245857,81
+Guinea-Bissau,Bissau,Africa,36125,82
+Guyana,Georgetown,South America,214969,83
+Haiti,Port-au-Prince,North America,27750,84
+Honduras,Tegucigalpa,North America,112492,85
+Hungary,Budapest,Europe,93028,87
+Iceland,Reykjavík,Europe,103000,88
+India,New Delhi,Asia,3287590,89
+Indonesia,Jakarta,Asia,1904569,90
+Iran,Tehran,Asia,1648195,91
+Iraq,Baghdad,Asia,438317,92
+Ireland,Dublin,Europe,70273,93
+Israel,Jerusalem,Asia,20770,95
+Italy,Rome,Europe,301336,96
+Jamaica,Kingston,North America,10991,97
+Japan,Tokyo,Asia,377930,98
+Jordan,Amman,Asia,89342,99
+Kazakhstan,Nursultan,Asia,2724900,100
+Kenya,Nairobi,Africa,580367,101
+Kiribati,Tarawa,Oceania,811,102
+Kuwait,Kuwait City,Asia,17818,103
+Latvia,Riga,Europe,64559,106
+Lebanon,Beirut,Asia,10452,107
+Lesotho,Maseru,Africa,30355,108
+Liberia,Monrovia,Africa,111369,109
+Libya,Tripoli,Africa,1759540,110
+Lithuania,Vilnius,Europe,65300,112
+Luxembourg,Luxembourg,Europe,2586,113
+Madagascar,Antananarivo,Africa,587041,114
+Malawi,Lilongwe,Africa,118484,115
+Malaysia,Kuala Lumpur,Asia,330803,116
+Maldives,Malé,Asia,300,117
+Mali,Bamako,Africa,1240192,118
+Malta,Valletta,Europe,316,119
+Marshall Islands,Majuro,Oceania,181,120
+Mauritania,Nouakchott,Africa,1030700,122
+Mauritius,Port Louis,Africa,2040,123
+Mexico,Mexico City,North America,1964375,125
+Moldova,Chisinau,Europe,33846,127
+Mongolia,Ulaanbaatar,Asia,1564110,129
+Montenegro,Podgorica,Europe,13812,130
+Morocco,Rabat,Africa,446550,132
+Mozambique,Maputo,Africa,801590,133
+Myanmar,Nay Pyi Taw,Asia,676578,134
+Namibia,Windhoek,Africa,825615,135
+Nauru,Yaren,Oceania,21,136
+Nepal,Kathmandu,Asia,147181,137
+Netherlands,Amsterdam,Europe,41850,138
+New Zealand,Wellington,Oceania,270467,140
+Nicaragua,Managua,North America,130373,141
+Niger,Niamey,Africa,1267000,142
+Nigeria,Abuja,Africa,923768,143
+Norway,Oslo,Europe,323802,148
+Oman,Muscat,Asia,309500,149
+Pakistan,Islamabad,Asia,881912,150
+Palau,Ngerulmud,Oceania,459,151
+Panama,Panama City,North America,75417,152
+Papua New Guinea,Port Moresby,Oceania,462840,153
+Paraguay,Asunción,South America,406752,154
+Peru,Lima,South America,1285216,155
+Philippines,Manila,Asia,342353,156
+Poland,Warsaw,Europe,312679,157
+Portugal,Lisbon,Europe,92090,158
+Puerto Rico,San Juan,North America,8870,159
+Qatar,Doha,Asia,11586,160
+Romania,Bucharest,Europe,238391,161
+Rwanda,Kigali,Africa,26338,163
+Saint Lucia,Castries,North America,616,165
+Samoa,Apia,Oceania,2842,167
+San Marino,San Marino,Europe,61,168
+Saudi Arabia,Riyadh,Asia,2149690,169
+Senegal,Dakar,Africa,196722,170
+Serbia,Belgrade,Europe,88361,171
+Seychelles,Victoria,Africa,452,172
+Sierra Leone,Freetown,Africa,71740,173
+Singapore,Singapore,Asia,710,174
+Slovenia,Ljubljana,Europe,20273,177
+Solomon Islands,Honiara,Oceania,28896,178
+Somalia,Mogadishu,Africa,637657,179
+South Africa,Pretoria,Africa,1221037,180
+Spain,Madrid,Europe,505992,183
+Sri Lanka,Colombo,Asia,65610,184
+Sudan,Khartoum,Africa,1886068,185
+Suriname,Paramaribo,South America,163820,186
+Sweden,Stockholm,Europe,450295,187
+Switzerland,Bern,Europe,41284,188
+Syria,Damascus,Asia,185180,189
+Tajikistan,Dushanbe,Asia,143100,191
+Tanzania,Dodoma,Africa,945087,192
+Thailand,Bangkok,Asia,513120,193
+Timor-Leste,Dili,Asia,14874,194
+Togo,Lomé,Africa,56785,195
+Tonga,Nuku‘alofa,Oceania,747,197
+Trinidad and Tobago,Port-of-Spain,North America,5130,198
+Tunisia,Tunis,Africa,163610,199
+Turkmenistan,Ashgabat,Asia,488100,201
+Tuvalu,Funafuti,Oceania,26,202
+Uganda,Kampala,Africa,241550,203
+Ukraine,Kiev,Europe,603500,204
+United Arab Emirates,Abu Dhabi,Asia,83600,205
+United Kingdom,London,Europe,242900,206
+United States,"Washington, D.C.",North America,9372610,207
+Uruguay,Montevideo,South America,181034,208
+Uzbekistan,Tashkent,Asia,447400,209
+Vanuatu,Port-Vila,Oceania,12189,210
+Venezuela,Caracas,South America,916445,211
+Vietnam,Hanoi,Asia,331212,212
+Yemen,Sanaa,Asia,527968,214
+Zambia,Lusaka,Africa,752612,215
+Zimbabwe,Harare,Africa,390757,216
