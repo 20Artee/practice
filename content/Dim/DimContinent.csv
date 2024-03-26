@@ -1,7 +1,7 @@
-Continent,continent_id
-Asia,1
-Europe,2
-Africa,3
-Oceania,4
-North America,5
-South America,6
+continent_id,Continent
+1,Africa
+2,Asia
+3,Europe
+4,North America
+5,South America
+6,Oceania
