@@ -1,226 +1,217 @@
-Country,country_id
-"Afghanistan, Islamic Rep. of",6789
-Albania,3641
-Algeria,5567
-American Samoa,4561
-"Andorra, Principality of",3920
-Angola,5950
-Anguilla,9150
-Antigua and Barbuda,7242
-Argentina,5938
-"Armenia, Rep. of",2856
-"Aruba, Kingdom of the Netherlands",6450
-Australia,6726
-Austria,9236
-"Azerbaijan, Rep. of",4639
-"Bahamas, The",6598
-"Bahrain, Kingdom of",1843
-Bangladesh,4317
-Barbados,8264
-"Belarus, Rep. of",9479
-Belgium,4656
-Belize,4074
-Benin,8885
-Bhutan,5729
-Bolivia,1673
-Bosnia and Herzegovina,6179
-Botswana,8741
-Brazil,4613
-British Virgin Islands,4244
-Brunei Darussalam,6842
-Bulgaria,5773
-Burkina Faso,5303
-Burundi,2915
-Cabo Verde,3810
-Cambodia,6686
-Cameroon,3310
-Canada,2118
-Cayman Islands,9342
-Central African Rep.,5095
-Chad,9487
-Chile,9684
-"China, P.R.: Hong Kong",7585
-"China, P.R.: Macao",8491
-"China, P.R.: Mainland",7141
-Colombia,1360
-"Comoros, Union of the",9163
-"Congo, Dem. Rep. of the",1495
-"Congo, Rep. of",7069
-Cook Islands,7886
-Costa Rica,7427
-"Croatia, Rep. of",2702
-Cuba,3500
-Cyprus,3238
-Czech Rep.,5518
-Denmark,8705
-Djibouti,7257
-Dominica,9364
-Dominican Rep.,3759
-Ecuador,2225
-"Egypt, Arab Rep. of",7078
-El Salvador,5454
-"Equatorial Guinea, Rep. of",9626
-"Eritrea, The State of",4359
-"Estonia, Rep. of",3873
-"Eswatini, Kingdom of",9533
-"Ethiopia, The Federal Dem. Rep. of",4284
-Falkland Islands (Malvinas),2582
-Faroe Islands,6062
-"Fiji, Rep. of",9619
-Finland,2607
-France,2347
-French Polynesia,6351
-Gabon,6796
-"Gambia, The",8525
-Georgia,9307
-Germany,4099
-Ghana,4675
-Gibraltar,1193
-Greece,7739
-Greenland,7652
-Grenada,7565
-Guadeloupe,4712
-Guatemala,7793
-Guinea,4202
-Guinea-Bissau,4316
-Guyana,8977
-Haiti,1992
-Holy See,8319
-Honduras,3723
-Hungary,4829
-Iceland,9021
-India,3202
-Indonesia,5534
-"Iran, Islamic Rep. of",9668
-Iraq,6834
-Ireland,5808
-Isle of Man,9488
-Israel,6736
-Italy,9657
-Jamaica,5414
-Japan,5517
-Jordan,2694
-"Kazakhstan, Rep. of",9863
-Kenya,3408
-Kiribati,3683
-"Korea, Dem. People's Rep. of",6519
-"Korea, Rep. of",9918
-Kuwait,1999
-Kyrgyz Rep.,7125
-Lao People's Dem. Rep.,8286
-Latvia,2711
-Lebanon,9233
-"Lesotho, Kingdom of",5800
-Liberia,6167
-Libya,9565
-Liechtenstein,2655
-Lithuania,6240
-Luxembourg,8771
-"Madagascar, Rep. of",8174
-Malawi,1621
-Malaysia,6576
-Maldives,4942
-Mali,7644
-Malta,3819
-"Marshall Islands, Rep. of the",6966
-Martinique,9647
-"Mauritania, Islamic Rep. of",8812
-Mauritius,2636
-Mayotte,8307
-Mexico,4865
-"Micronesia, Federated States of",9576
-"Moldova, Rep. of",4067
-Monaco,9422
-Mongolia,2598
-Montenegro,4064
-Montserrat,2768
-Morocco,8851
-"Mozambique, Rep. of",9256
-Myanmar,9338
-Namibia,6395
-"Nauru, Rep. of",1968
-Nepal,3551
-"Netherlands, The",6942
-New Caledonia,4558
-New Zealand,3993
-Nicaragua,1109
-Niger,1281
-Nigeria,1632
-Niue,3241
-Norfolk Island,7422
-"North Macedonia, Republic of ",8966
-Norway,3617
-Oman,6561
-Pakistan,3070
-"Palau, Rep. of",5725
-Panama,5456
-Papua New Guinea,1291
-Paraguay,5252
-Peru,4851
-Philippines,8597
-Pitcairn Islands,3861
-"Poland, Rep. of",1937
-Portugal,6018
-Puerto Rico,6408
-Qatar,5687
-Romania,7199
-Russian Federation,4652
-Rwanda,2659
-Saint Helena,1308
-Saint Pierre and Miquelon,8489
-Samoa,1508
-"San Marino, Rep. of",4298
-"São Tomé and Príncipe, Dem. Rep. of",7006
-Saudi Arabia,6813
-Senegal,3840
-"Serbia, Rep. of",1607
-Seychelles,3362
-Sierra Leone,9789
-Singapore,4749
-Slovak Rep.,8440
-"Slovenia, Rep. of",2382
-Solomon Islands,4929
-Somalia,1335
-South Africa,8740
-"South Sudan, Rep. of",2833
-Spain,5706
-Sri Lanka,4435
-St. Kitts and Nevis,3928
-St. Lucia,7364
-St. Vincent and the Grenadines,1588
-Sudan,9458
-Suriname,6322
-Sweden,5476
-Switzerland,8673
-Syrian Arab Rep.,8156
-Taiwan Province of China,9159
-"Tajikistan, Rep. of",5162
-"Tanzania, United Rep. of",8698
-Thailand,9480
-"Timor-Leste, Dem. Rep. of",2949
-Togo,1122
-Tokelau,7749
-Tonga,5709
-Trinidad and Tobago,6140
-Tunisia,8843
-Turkmenistan,5711
-Turks and Caicos Islands,4168
-Tuvalu,8213
-Uganda,9900
-Ukraine,8363
-United Arab Emirates,4200
-United Kingdom,6332
-United States,1931
-United States Virgin Islands,9976
-Uruguay,4233
-"Uzbekistan, Rep. of",4728
-Vanuatu,5485
-"Venezuela, Rep. Bolivariana de",2369
-Vietnam,4722
-Wallis and Futuna Islands,4963
-West Bank and Gaza,3231
-Western Sahara,7405
-World,1162
-"Yemen, Rep. of",5996
-Zambia,3571
-Zimbabwe,4578
+country_id,country
+5486,Afghanistan
+8945,Albania
+5908,Algeria
+2532,American Samoa
+8485,Andorra
+3939,Angola
+8028,Anguilla
+6347,Antigua and Barbuda
+9834,Argentina
+6373,Armenia
+1042,Aruba
+8795,Australia
+5535,Austria
+1675,Azerbaijan
+6983,Bahamas
+6398,Bahrain
+4745,Bangladesh
+7019,Barbados
+2375,Belarus
+4121,Belgium
+3426,Belize
+2376,Benin
+2983,Bermuda
+9888,Bhutan
+4701,Bolivia
+9655,Bosnia and Herzegovina
+5508,Botswana
+4547,Brazil
+5704,British Virgin Islands
+3588,Brunei
+8825,Bulgaria
+7841,Burkina Faso
+8549,Burundi
+2717,Cambodia
+6139,Cameroon
+3716,Canada
+4385,Cape Verde
+2798,Cayman Islands
+3194,Central African Republic
+4351,Chad
+1608,Chile
+1283,China
+4060,Colombia
+9020,Comoros
+4217,Cook Islands
+5405,Costa Rica
+4879,Croatia
+2287,Cuba
+4893,Cyprus
+9178,Denmark
+3932,Djibouti
+6014,Dominica
+2022,Dominican Republic
+9329,Ecuador
+1818,Egypt
+2497,El Salvador
+4415,Equatorial Guinea
+9934,Eritrea
+8608,Estonia
+5385,Eswatini
+6980,Ethiopia
+3202,Falkland Islands
+1437,Faroe Islands
+2570,Fiji
+9460,Finland
+2953,France
+1330,French Guiana
+4002,French Polynesia
+1720,Gabon
+6623,Gambia
+6134,Georgia
+5881,Germany
+3148,Ghana
+1808,Gibraltar
+1469,Greece
+2322,Greenland
+1997,Grenada
+9478,Guadeloupe
+9864,Guam
+9549,Guatemala
+1846,Guinea
+9379,Guinea-Bissau
+4600,Guyana
+3869,Haiti
+8124,Honduras
+9725,Hong Kong
+5540,Hungary
+6836,Iceland
+5423,India
+2831,Indonesia
+2419,Iran
+5136,Iraq
+1182,Ireland
+5716,Isle of Man
+9493,Israel
+9944,Italy
+7413,Jamaica
+6043,Japan
+5406,Jordan
+3784,Kazakhstan
+8019,Kenya
+9216,Kiribati
+9838,Kuwait
+3172,Kyrgyzstan
+9522,Laos
+8518,Latvia
+8425,Lebanon
+4831,Lesotho
+8748,Liberia
+2939,Libya
+8805,Liechtenstein
+6270,Lithuania
+4023,Luxembourg
+8822,Madagascar
+1767,Malawi
+2111,Malaysia
+2447,Maldives
+5810,Mali
+8335,Malta
+1742,Marshall Islands
+7750,Martinique
+1871,Mauritania
+5533,Mauritius
+8657,Mayotte
+5603,Mexico
+5871,Micronesia
+6986,Moldova
+8018,Monaco
+7903,Mongolia
+1983,Montenegro
+7834,Montserrat
+8378,Morocco
+3704,Mozambique
+6777,Myanmar
+3779,Namibia
+8247,Nauru
+5938,Nepal
+8544,Netherlands
+2887,New Caledonia
+2227,New Zealand
+4034,Nicaragua
+7775,Niger
+5130,Nigeria
+2614,Niue
+6638,North Korea
+6380,North Macedonia
+9239,Northern Mariana Islands
+3722,Norway
+9776,Oman
+8254,Pakistan
+7295,Palau
+5595,Panama
+7093,Papua New Guinea
+9486,Paraguay
+4012,Peru
+5088,Philippines
+7407,Poland
+4110,Portugal
+4698,Puerto Rico
+2220,Qatar
+3040,Romania
+9415,Russia
+6342,Rwanda
+8701,Saint Barthelemy
+5807,Saint Lucia
+6908,Saint Martin
+8708,Samoa
+3516,San Marino
+2223,Saudi Arabia
+3956,Senegal
+1918,Serbia
+8312,Seychelles
+4017,Sierra Leone
+7614,Singapore
+6344,Sint Maarten
+4476,Slovakia
+7484,Slovenia
+9165,Solomon Islands
+8941,Somalia
+3660,South Africa
+5506,South Korea
+6727,South Sudan
+4065,Spain
+9760,Sri Lanka
+8199,Sudan
+4246,Suriname
+6307,Sweden
+2369,Switzerland
+2937,Syria
+6779,Taiwan
+9990,Tajikistan
+8669,Tanzania
+5360,Thailand
+8385,Timor-Leste
+8370,Togo
+1888,Tokelau
+2316,Tonga
+6207,Trinidad and Tobago
+7274,Tunisia
+3482,Turkey
+5583,Turkmenistan
+2886,Tuvalu
+2589,Uganda
+6254,Ukraine
+5075,United Arab Emirates
+2384,United Kingdom
+5477,United States
+9540,Uruguay
+6032,Uzbekistan
+3913,Vanuatu
+8338,Venezuela
+8142,Vietnam
+3507,Western Sahara
+8336,Yemen
+6496,Zambia
+8684,Zimbabwe
