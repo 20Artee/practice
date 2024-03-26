@@ -2,11 +2,11 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-class Analyzer:
+
+class capsule:
     def __init__(self, filename):
         self.data = pd.read_csv(filename, encoding='latin1')
         self.data = self.data.apply(pd.to_numeric, errors='coerce')
-        
     def info(self):
         return self.data.info()
 
