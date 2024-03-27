@@ -1,217 +1,226 @@
-country_id,country
-8021,Afghanistan
-1825,Albania
-3768,Algeria
-2587,American Samoa
-4447,Andorra
-6690,Angola
-5757,Anguilla
-2331,Antigua and Barbuda
-7319,Argentina
-7785,Armenia
-9612,Aruba
-6735,Australia
-1111,Austria
-9382,Azerbaijan
-4443,Bahamas
-7756,Bahrain
-7321,Bangladesh
-2270,Barbados
-8244,Belarus
-1751,Belgium
-9155,Belize
-9981,Benin
-7362,Bermuda
-4435,Bhutan
-8599,Bolivia
-3884,Bosnia and Herzegovina
-5482,Botswana
-5413,Brazil
-1298,British Virgin Islands
-8298,Brunei
-2612,Bulgaria
-7742,Burkina Faso
-9014,Burundi
-5580,Cambodia
-6293,Cameroon
-1420,Canada
-3608,Cape Verde
-2313,Cayman Islands
-8376,Central African Republic
-8602,Chad
-3934,Chile
-3612,China
-2010,Colombia
-1035,Comoros
-2319,Cook Islands
-8933,Costa Rica
-9016,Croatia
-2514,Cuba
-7794,Cyprus
-8736,Denmark
-3588,Djibouti
-1947,Dominica
-8659,Dominican Republic
-8396,Ecuador
-3972,Egypt
-4039,El Salvador
-8419,Equatorial Guinea
-1415,Eritrea
-6878,Estonia
-1396,Eswatini
-6290,Ethiopia
-1737,Falkland Islands
-4974,Faroe Islands
-4412,Fiji
-5112,Finland
-8425,France
-9776,French Guiana
-3316,French Polynesia
-2357,Gabon
-1348,Gambia
-9516,Georgia
-1008,Germany
-9238,Ghana
-1523,Gibraltar
-2930,Greece
-8424,Greenland
-1873,Grenada
-2048,Guadeloupe
-8800,Guam
-1123,Guatemala
-5145,Guinea
-5489,Guinea-Bissau
-3904,Guyana
-6758,Haiti
-6694,Honduras
-1586,Hong Kong
-1463,Hungary
-1059,Iceland
-8545,India
-5283,Indonesia
-6816,Iran
-5447,Iraq
-6296,Ireland
-9512,Isle of Man
-8168,Israel
-4847,Italy
-8904,Jamaica
-4251,Japan
-4356,Jordan
-9893,Kazakhstan
-7338,Kenya
-3452,Kiribati
-1161,Kuwait
-6726,Kyrgyzstan
-3511,Laos
-2391,Latvia
-3945,Lebanon
-3147,Lesotho
-2527,Liberia
-6882,Libya
-1603,Liechtenstein
-6235,Lithuania
-8601,Luxembourg
-9308,Madagascar
-9709,Malawi
-4825,Malaysia
-1386,Maldives
-4295,Mali
-9823,Malta
-1382,Marshall Islands
-8782,Martinique
-5073,Mauritania
-7341,Mauritius
-2879,Mayotte
-4971,Mexico
-3922,Micronesia
-9611,Moldova
-6507,Monaco
-2780,Mongolia
-8724,Montenegro
-4429,Montserrat
-1663,Morocco
-5393,Mozambique
-6676,Myanmar
-5123,Namibia
-4926,Nauru
-5956,Nepal
-2561,Netherlands
-6811,New Caledonia
-7609,New Zealand
-8617,Nicaragua
-2097,Niger
-3769,Nigeria
-8351,Niue
-5287,North Korea
-5462,North Macedonia
-8790,Northern Mariana Islands
-5148,Norway
-7487,Oman
-4685,Pakistan
-1352,Palau
-2678,Panama
-3131,Papua New Guinea
-8651,Paraguay
-8516,Peru
-4764,Philippines
-5305,Poland
-7754,Portugal
-6762,Puerto Rico
-4185,Qatar
-5466,Romania
-2796,Russia
-4091,Rwanda
-3096,Saint Barthelemy
-5916,Saint Lucia
-8145,Saint Martin
-8927,Samoa
-7910,San Marino
-9142,Saudi Arabia
-6343,Senegal
-7282,Serbia
-5889,Seychelles
-8705,Sierra Leone
-9524,Singapore
-6148,Sint Maarten
-2729,Slovakia
-7307,Slovenia
-6778,Solomon Islands
-3230,Somalia
-6757,South Africa
-3124,South Korea
-4804,South Sudan
-4968,Spain
-7944,Sri Lanka
-2292,Sudan
-9605,Suriname
-6900,Sweden
-6250,Switzerland
-9869,Syria
-5220,Taiwan
-5644,Tajikistan
-1431,Tanzania
-1808,Thailand
-8393,Timor-Leste
-5531,Togo
-3564,Tokelau
-8319,Tonga
-7101,Trinidad and Tobago
-3266,Tunisia
-7375,Turkey
-9658,Turkmenistan
-4278,Tuvalu
-7361,Uganda
-8231,Ukraine
-8337,United Arab Emirates
-6928,United Kingdom
-7070,United States
-5160,Uruguay
-1223,Uzbekistan
-6319,Vanuatu
-6730,Venezuela
-8472,Vietnam
-7334,Western Sahara
-5746,Yemen
-5496,Zambia
-6715,Zimbabwe
+Country
+"Afghanistan, Islamic Rep. of"
+Albania
+Algeria
+American Samoa
+"Andorra, Principality of"
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+"Armenia, Rep. of"
+"Aruba, Kingdom of the Netherlands"
+Australia
+Austria
+"Azerbaijan, Rep. of"
+"Bahamas, The"
+"Bahrain, Kingdom of"
+Bangladesh
+Barbados
+"Belarus, Rep. of"
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Rep.
+Chad
+Chile
+"China, P.R.: Hong Kong"
+"China, P.R.: Macao"
+"China, P.R.: Mainland"
+Colombia
+"Comoros, Union of the"
+"Congo, Dem. Rep. of the"
+"Congo, Rep. of"
+Cook Islands
+Costa Rica
+"Croatia, Rep. of"
+Cuba
+Cyprus
+Czech Rep.
+Denmark
+Djibouti
+Dominica
+Dominican Rep.
+Ecuador
+"Egypt, Arab Rep. of"
+El Salvador
+"Equatorial Guinea, Rep. of"
+"Eritrea, The State of"
+"Estonia, Rep. of"
+"Eswatini, Kingdom of"
+"Ethiopia, The Federal Dem. Rep. of"
+Falkland Islands (Malvinas)
+Faroe Islands
+"Fiji, Rep. of"
+Finland
+France
+French Polynesia
+Gabon
+"Gambia, The"
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+"Iran, Islamic Rep. of"
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+"Kazakhstan, Rep. of"
+Kenya
+Kiribati
+"Korea, Dem. People's Rep. of"
+"Korea, Rep. of"
+Kuwait
+Kyrgyz Rep.
+Lao People's Dem. Rep.
+Latvia
+Lebanon
+"Lesotho, Kingdom of"
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+"Madagascar, Rep. of"
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+"Marshall Islands, Rep. of the"
+Martinique
+"Mauritania, Islamic Rep. of"
+Mauritius
+Mayotte
+Mexico
+"Micronesia, Federated States of"
+"Moldova, Rep. of"
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+"Mozambique, Rep. of"
+Myanmar
+Namibia
+"Nauru, Rep. of"
+Nepal
+"Netherlands, The"
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+"North Macedonia, Republic of "
+Norway
+Oman
+Pakistan
+"Palau, Rep. of"
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+"Poland, Rep. of"
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Helena
+Saint Pierre and Miquelon
+Samoa
+"San Marino, Rep. of"
+"São Tomé and Príncipe, Dem. Rep. of"
+Saudi Arabia
+Senegal
+"Serbia, Rep. of"
+Seychelles
+Sierra Leone
+Singapore
+Slovak Rep.
+"Slovenia, Rep. of"
+Solomon Islands
+Somalia
+South Africa
+"South Sudan, Rep. of"
+Spain
+Sri Lanka
+St. Kitts and Nevis
+St. Lucia
+St. Vincent and the Grenadines
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Rep.
+Taiwan Province of China
+"Tajikistan, Rep. of"
+"Tanzania, United Rep. of"
+Thailand
+"Timor-Leste, Dem. Rep. of"
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Virgin Islands
+Uruguay
+"Uzbekistan, Rep. of"
+Vanuatu
+"Venezuela, Rep. Bolivariana de"
+Vietnam
+Wallis and Futuna Islands
+West Bank and Gaza
+Western Sahara
+World
+"Yemen, Rep. of"
+Zambia
+Zimbabwe
