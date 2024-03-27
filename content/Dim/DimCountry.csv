@@ -1,217 +1,217 @@
 country_id,country
-8021,Afghanistan
-1825,Albania
-3768,Algeria
-2587,American Samoa
-4447,Andorra
-6690,Angola
-5757,Anguilla
-2331,Antigua and Barbuda
-7319,Argentina
-7785,Armenia
-9612,Aruba
-6735,Australia
-1111,Austria
-9382,Azerbaijan
-4443,Bahamas
-7756,Bahrain
-7321,Bangladesh
-2270,Barbados
-8244,Belarus
-1751,Belgium
-9155,Belize
-9981,Benin
-7362,Bermuda
-4435,Bhutan
-8599,Bolivia
-3884,Bosnia and Herzegovina
-5482,Botswana
-5413,Brazil
-1298,British Virgin Islands
-8298,Brunei
-2612,Bulgaria
-7742,Burkina Faso
-9014,Burundi
-5580,Cambodia
-6293,Cameroon
-1420,Canada
-3608,Cape Verde
-2313,Cayman Islands
-8376,Central African Republic
-8602,Chad
-3934,Chile
-3612,China
-2010,Colombia
-1035,Comoros
-2319,Cook Islands
-8933,Costa Rica
-9016,Croatia
-2514,Cuba
-7794,Cyprus
-8736,Denmark
-3588,Djibouti
-1947,Dominica
-8659,Dominican Republic
-8396,Ecuador
-3972,Egypt
-4039,El Salvador
-8419,Equatorial Guinea
-1415,Eritrea
-6878,Estonia
-1396,Eswatini
-6290,Ethiopia
-1737,Falkland Islands
-4974,Faroe Islands
-4412,Fiji
-5112,Finland
-8425,France
-9776,French Guiana
-3316,French Polynesia
-2357,Gabon
-1348,Gambia
-9516,Georgia
-1008,Germany
-9238,Ghana
-1523,Gibraltar
-2930,Greece
-8424,Greenland
-1873,Grenada
-2048,Guadeloupe
-8800,Guam
-1123,Guatemala
-5145,Guinea
-5489,Guinea-Bissau
-3904,Guyana
-6758,Haiti
-6694,Honduras
-1586,Hong Kong
-1463,Hungary
-1059,Iceland
-8545,India
-5283,Indonesia
-6816,Iran
-5447,Iraq
-6296,Ireland
-9512,Isle of Man
-8168,Israel
-4847,Italy
-8904,Jamaica
-4251,Japan
-4356,Jordan
-9893,Kazakhstan
-7338,Kenya
-3452,Kiribati
-1161,Kuwait
-6726,Kyrgyzstan
-3511,Laos
-2391,Latvia
-3945,Lebanon
-3147,Lesotho
-2527,Liberia
-6882,Libya
-1603,Liechtenstein
-6235,Lithuania
-8601,Luxembourg
-9308,Madagascar
-9709,Malawi
-4825,Malaysia
-1386,Maldives
-4295,Mali
-9823,Malta
-1382,Marshall Islands
-8782,Martinique
-5073,Mauritania
-7341,Mauritius
-2879,Mayotte
-4971,Mexico
-3922,Micronesia
-9611,Moldova
-6507,Monaco
-2780,Mongolia
-8724,Montenegro
-4429,Montserrat
-1663,Morocco
-5393,Mozambique
-6676,Myanmar
-5123,Namibia
-4926,Nauru
-5956,Nepal
-2561,Netherlands
-6811,New Caledonia
-7609,New Zealand
-8617,Nicaragua
-2097,Niger
-3769,Nigeria
-8351,Niue
-5287,North Korea
-5462,North Macedonia
-8790,Northern Mariana Islands
-5148,Norway
-7487,Oman
-4685,Pakistan
-1352,Palau
-2678,Panama
-3131,Papua New Guinea
-8651,Paraguay
-8516,Peru
-4764,Philippines
-5305,Poland
-7754,Portugal
-6762,Puerto Rico
-4185,Qatar
-5466,Romania
-2796,Russia
-4091,Rwanda
-3096,Saint Barthelemy
-5916,Saint Lucia
-8145,Saint Martin
-8927,Samoa
-7910,San Marino
-9142,Saudi Arabia
-6343,Senegal
-7282,Serbia
-5889,Seychelles
-8705,Sierra Leone
-9524,Singapore
-6148,Sint Maarten
-2729,Slovakia
-7307,Slovenia
-6778,Solomon Islands
-3230,Somalia
-6757,South Africa
-3124,South Korea
-4804,South Sudan
-4968,Spain
-7944,Sri Lanka
-2292,Sudan
-9605,Suriname
-6900,Sweden
-6250,Switzerland
-9869,Syria
-5220,Taiwan
-5644,Tajikistan
-1431,Tanzania
-1808,Thailand
-8393,Timor-Leste
-5531,Togo
-3564,Tokelau
-8319,Tonga
-7101,Trinidad and Tobago
-3266,Tunisia
-7375,Turkey
-9658,Turkmenistan
-4278,Tuvalu
-7361,Uganda
-8231,Ukraine
-8337,United Arab Emirates
-6928,United Kingdom
-7070,United States
-5160,Uruguay
-1223,Uzbekistan
-6319,Vanuatu
-6730,Venezuela
-8472,Vietnam
-7334,Western Sahara
-5746,Yemen
-5496,Zambia
-6715,Zimbabwe
+2050,Afghanistan
+5181,Albania
+4586,Algeria
+9350,American Samoa
+9230,Andorra
+9448,Angola
+5604,Anguilla
+8745,Antigua and Barbuda
+5231,Argentina
+1972,Armenia
+8217,Aruba
+7859,Australia
+5484,Austria
+2557,Azerbaijan
+3976,Bahamas
+5160,Bahrain
+3421,Bangladesh
+8963,Barbados
+4288,Belarus
+2934,Belgium
+1945,Belize
+5854,Benin
+5017,Bermuda
+5833,Bhutan
+8863,Bolivia
+2086,Bosnia and Herzegovina
+6025,Botswana
+5643,Brazil
+8750,British Virgin Islands
+1038,Brunei
+4114,Bulgaria
+3270,Burkina Faso
+5785,Burundi
+1475,Cambodia
+2910,Cameroon
+4227,Canada
+5564,Cape Verde
+1710,Cayman Islands
+1420,Central African Republic
+9053,Chad
+8151,Chile
+4783,China
+8433,Colombia
+2225,Comoros
+1998,Cook Islands
+5481,Costa Rica
+9225,Croatia
+5830,Cuba
+5520,Cyprus
+9936,Denmark
+8382,Djibouti
+1484,Dominica
+4632,Dominican Republic
+8990,Ecuador
+5730,Egypt
+8331,El Salvador
+5493,Equatorial Guinea
+1933,Eritrea
+4556,Estonia
+2855,Eswatini
+1077,Ethiopia
+1812,Falkland Islands
+8902,Faroe Islands
+2666,Fiji
+8325,Finland
+2491,France
+6137,French Guiana
+1540,French Polynesia
+9323,Gabon
+1968,Gambia
+6192,Georgia
+2447,Germany
+1680,Ghana
+5059,Gibraltar
+7791,Greece
+9550,Greenland
+1866,Grenada
+1376,Guadeloupe
+8106,Guam
+8657,Guatemala
+9599,Guinea
+5294,Guinea-Bissau
+2843,Guyana
+6415,Haiti
+1086,Honduras
+7703,Hong Kong
+9064,Hungary
+7843,Iceland
+7159,India
+3993,Indonesia
+7987,Iran
+3959,Iraq
+7100,Ireland
+3808,Isle of Man
+9089,Israel
+5288,Italy
+6674,Jamaica
+6552,Japan
+4363,Jordan
+4450,Kazakhstan
+3754,Kenya
+5939,Kiribati
+5927,Kuwait
+8847,Kyrgyzstan
+1313,Laos
+3111,Latvia
+1899,Lebanon
+1612,Lesotho
+9882,Liberia
+9669,Libya
+3125,Liechtenstein
+9898,Lithuania
+7830,Luxembourg
+3497,Madagascar
+3592,Malawi
+6262,Malaysia
+2701,Maldives
+4228,Mali
+3964,Malta
+8099,Marshall Islands
+6596,Martinique
+2777,Mauritania
+2792,Mauritius
+6400,Mayotte
+9800,Mexico
+8489,Micronesia
+1367,Moldova
+2641,Monaco
+9877,Mongolia
+1357,Montenegro
+6446,Montserrat
+3324,Morocco
+9850,Mozambique
+7797,Myanmar
+2703,Namibia
+9288,Nauru
+3315,Nepal
+7531,Netherlands
+5635,New Caledonia
+1811,New Zealand
+6130,Nicaragua
+1507,Niger
+4777,Nigeria
+7875,Niue
+4718,North Korea
+6127,North Macedonia
+1019,Northern Mariana Islands
+4283,Norway
+2939,Oman
+5946,Pakistan
+7978,Palau
+2232,Panama
+6499,Papua New Guinea
+8530,Paraguay
+2693,Peru
+1477,Philippines
+7322,Poland
+4885,Portugal
+7373,Puerto Rico
+3352,Qatar
+6771,Romania
+6070,Russia
+7426,Rwanda
+9065,Saint Barthelemy
+9260,Saint Lucia
+7092,Saint Martin
+3283,Samoa
+6251,San Marino
+7391,Saudi Arabia
+5951,Senegal
+1245,Serbia
+3813,Seychelles
+2946,Sierra Leone
+7069,Singapore
+9088,Sint Maarten
+3625,Slovakia
+5516,Slovenia
+9888,Solomon Islands
+6544,Somalia
+6951,South Africa
+7514,South Korea
+1955,South Sudan
+7526,Spain
+7632,Sri Lanka
+4452,Sudan
+9954,Suriname
+9171,Sweden
+9995,Switzerland
+9598,Syria
+1623,Taiwan
+8108,Tajikistan
+5605,Tanzania
+3514,Thailand
+8258,Timor-Leste
+3763,Togo
+4810,Tokelau
+7376,Tonga
+4402,Trinidad and Tobago
+2097,Tunisia
+3095,Turkey
+6898,Turkmenistan
+6928,Tuvalu
+3793,Uganda
+8670,Ukraine
+3348,United Arab Emirates
+8898,United Kingdom
+8163,United States
+8338,Uruguay
+7220,Uzbekistan
+9145,Vanuatu
+4005,Venezuela
+6369,Vietnam
+7483,Western Sahara
+7872,Yemen
+9480,Zambia
+2658,Zimbabwe
